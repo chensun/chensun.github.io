@@ -17,15 +17,15 @@ title: Chen Sun
 author: Chen Sun
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Chen Sun's tech blog
+  Random thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chensun.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social media accounts
-twitter_username: csun428
 github_username:  chensun
 linkedin_username: csun
 pinterest_username: sun428
+rss: rss
 
 google_analytics: UA-19929364-1
 
