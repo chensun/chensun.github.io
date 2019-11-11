@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Reality Check on Redfin Estimate and Zillow Zestimate"
-date:   2019-11-10 16:06:00 -0800
+date:   2019-11-10 00:00:00 -0800
 ---
 
 > To calculate the Redfin Estimate, Redfin evaluates hundreds of data points using proprietary machine-learning software running on next-generation cloud technology.  
