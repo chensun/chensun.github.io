@@ -27,13 +27,14 @@ linkedin_username: csun
 pinterest_username: sun428
 rss: rss
 
-google_analytics: UA-19929364-1
+google_analytics: G-PJR44ZVVSE
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
   - jekyll-sitemap
 
 # Exclude from processing.
